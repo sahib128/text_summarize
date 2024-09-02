@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065706096313",
+    "project_id": "saad-fyp",
+    "storage_bucket": "saad-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065706096313:android:5026d626ffe5781ee83d68",
+        "android_client_info": {
+          "package_name": "com.example.custfyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8jczGB7KvedBYVX3U5kX2Xr8zvKtqyVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
